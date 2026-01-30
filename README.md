@@ -1,9 +1,11 @@
+# BrainSnacks Facts
+
+Official website repository for **BrainSnacksFacts**.
+
+## Getting Started
+
+Clone the repository:
+
+```bash
 git clone https://github.com/dinglasanjustin-creator/BrainSnacksFacts.git
 cd BrainSnacksFacts
-
-echo "# BrainSnacks Facts" > README.md
-echo "Official website repository for BrainSnacksFacts" >> README.md
-
-git add .
-git commit -m "Initial commit"
-git push origin main
